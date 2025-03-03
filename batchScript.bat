@@ -1,1 +1,1 @@
-start "calc.exe"
+start calc
